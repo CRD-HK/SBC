@@ -31,7 +31,8 @@ In this GitHub personalized repository, you will find the code and components de
 Contact:
 
 CRD-HK Charity & HKU Department of Earth Sciences
-info@crd-hk.org, Science & Technology Team 01 
+
+Project contact: info@crd-hk.org, Science & Technology Team 01 
 
  
 
