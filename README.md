@@ -8,7 +8,7 @@ It is proposed that the deployment of SBCs at geographical sites around Hong Kon
 
 Major ED recordings of relevance to any scientific research are the measurements of; 
 
-(1) pH. 
+(1) pH.
 (2) Oxidation-Reduction Potential (ORP)
 (3) Dissolved oxygen (DO). 
 (4) Conductivity and/or turbidity.
@@ -19,10 +19,10 @@ In this SBC project, the team has set the bar high by utilizing the widely avail
 
 
 (7) Air Quality Sensor.
-(8) UV Sensor ML8511.
-(9) LoRaWAN Ra-02 SX1278 Module.
+(8) UV Sensor.
+(9) LoRaWAN module.
 (10)Combined Humidity, Temperature & Pressure Sensor.
-(11)Tilt Angle MPU6050.
+(11)Tilt Angle.
 (12)Ultrasonic Sensor (5 meters range).
 (13)Flex Solar Panel.
 
