@@ -32,7 +32,7 @@ Contact:
 
 CRD-HK Charity & HKU Department of Earth Sciences
 
-Project contact: info@crd-hk.org, Science & Technology Team 01 
+info@crd-hk.org, Science & Technology Team 01 
 
  
 
