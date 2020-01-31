@@ -1,6 +1,6 @@
 # SBC Project (CRD-HK/HKU)
 
-The Single Board Computer (SBCs) project was established in 2019 by the CRD-HK Charity and the University of Hong Kong (HKU) to enable scientists and research institutions to gather autonomous environmental data (ED) at Hong Kong sites.
+The Single Board Computer (SBCs) project was established in 2019 by the CRD-HK (the CRD-Hk Charity) and the University of Hong Kong (HKU) to enable scientists and research institutions to gather autonomous environmental data (ED) at Hong Kong sites.
 
 The role of the CRD-HK team is to design and select SBC units that are retrofitted with a range of sophisticated sensors. To this date, there are no other universities present that either are developing or have completed the type of project.  
 
