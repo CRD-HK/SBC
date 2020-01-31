@@ -1,7 +1,5 @@
-//
-//Arduino serial monitor pH circuit.
-//This code was written in the Arduino 1.8.9 IDE
-//CRD-HK Charity - SBC Project 2019
+//Arduino 1.8.9 IDE
+//The CRD-HK Science & Technology branch, for the SBC project 2019-2020 (CRD-HK/HKU)
 
 
 #include <SoftwareSerial.h>                           
