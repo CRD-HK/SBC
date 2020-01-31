@@ -1,6 +1,5 @@
-//Type commands into the Arduino serial monitor to control the EZO Co2 sensor.
-//This code was written in the Arduino 1.8.9 IDE
-//The CRD-HK Charity, SBC project.
+//Arduino 1.8.9 IDE
+//The CRD-HK Science & Technology branch, for the SBC project 2019-2020 (CRD-HK/HKU)
 
 
 #include <Wire.h>                
